@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shoe-vtt/static/css/main.073c9b0a.css",
+    "main.js": "/shoe-vtt/static/js/main.0bebffd7.js",
+    "static/js/787.8796f311.chunk.js": "/shoe-vtt/static/js/787.8796f311.chunk.js",
+    "static/media/logo.svg": "/shoe-vtt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shoe-vtt/index.html",
+    "main.073c9b0a.css.map": "/shoe-vtt/static/css/main.073c9b0a.css.map",
+    "main.0bebffd7.js.map": "/shoe-vtt/static/js/main.0bebffd7.js.map",
+    "787.8796f311.chunk.js.map": "/shoe-vtt/static/js/787.8796f311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0bebffd7.js"
+  ]
+}
